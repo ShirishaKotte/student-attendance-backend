@@ -1,0 +1,9 @@
+{
+  "username": "23CS002",
+  "password": "password123",
+  "fullName": "Priya Patel",
+  "role": "STUDENT",
+  "email": "priya.patel@example.com",
+  "department": "Computer Science",
+  "semester": 6
+}

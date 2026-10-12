@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-12",
+  "records": [
+    {
+      "studentId": 1,
+      "status": "PRESENT",
+      "remarks": "On time"
+    },
+    {
+      "studentId": 2,
+      "status": "ABSENT",
+      "remarks": "Sick leave"
+    }
+  ]
+}

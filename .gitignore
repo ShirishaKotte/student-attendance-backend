@@ -1,0 +1,15 @@
+# Maven Build Artifacts
+target/
+*.jar
+*.war
+*.class
+
+# Logs
+*.log
+
+# IDE & System
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
